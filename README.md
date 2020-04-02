@@ -12,6 +12,7 @@ mysql>显示数据库；
 +--------------------+ 
 4 rows in set (0.17 sec)
 ```
+![jieguo](https://github.com/liuxiaojuan95/mysql-test-1/blob/liuxiaojuan95-patch-1/%E7%BB%93%E6%9E%9Cone.png)
 
 ## 题目2：如何join两张表
 
